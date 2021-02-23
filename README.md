@@ -1,2 +1,2 @@
 # lol
-these r jokes
+dont take this repo seriously
